@@ -8,49 +8,36 @@ h2 {
      text-align: center;
 }
 h3{
-    text-align: left;
+    text-align: left, center;
     font-size: 30px;
 
 
 }
 ul.special {
     align-content:right ;
-    margin: 12px;
-    border: 2px solid red;
+    margin: 10px;
+    border: 3px solid red;
     padding: 10px;
     background-color: lightsalmon;
-    width: 500px;
-    height: 450px;
-    float: center;
+    box-sizing: content-box;
+    width: 400px;
+    height: 500px;
     text-align: center;
     font-size: 35px;
 }
 
 .column {
        width: 400px; 
-       text-align: center;
        float:right;
-       margin: 60px;
        font-size:30px;
-       vertical-align: right;
-       padding: 30px;
 
 }
 .img {
-    float: left;
+    float: right;
     width: 50%;
     height: 60%;
-    padding: 10px;
 
     
-}
-.img2 {
-   float: right;
-   width: 10%;
-   height:90%;
-   padding:350px;
-   margin: 4px;
-   
 }
 
 

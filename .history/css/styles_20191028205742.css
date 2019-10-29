@@ -21,7 +21,6 @@ ul.special {
     background-color: lightsalmon;
     width: 500px;
     height: 450px;
-    float: center;
     text-align: center;
     font-size: 35px;
 }
@@ -47,10 +46,9 @@ ul.special {
 .img2 {
    float: right;
    width: 10%;
-   height:90%;
-   padding:350px;
+   height:50%;
+   padding:90px;
    margin: 4px;
-   
 }
 
 

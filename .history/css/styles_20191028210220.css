@@ -50,7 +50,7 @@ ul.special {
    height:90%;
    padding:350px;
    margin: 4px;
-   
+   align-items: flex-end;
 }
 
 

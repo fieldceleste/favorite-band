@@ -15,13 +15,13 @@ h3{
 }
 ul.special {
     align-content:right ;
-    margin: 12px;
-    border: 2px solid red;
+    margin: 4px;
+    border: 3px solid red;
     padding: 10px;
     background-color: lightsalmon;
-    width: 500px;
-    height: 450px;
-    float: center;
+
+    width: 400px;
+    height: 500px;
     text-align: center;
     font-size: 35px;
 }
@@ -37,20 +37,12 @@ ul.special {
 
 }
 .img {
-    float: left;
+    float: right;
     width: 50%;
     height: 60%;
     padding: 10px;
 
     
-}
-.img2 {
-   float: right;
-   width: 10%;
-   height:90%;
-   padding:350px;
-   margin: 4px;
-   
 }
 
 
