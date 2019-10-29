@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+    font-size: 45px;
+    color: purple
+}
+h2 {
+     font-size:30px;
+     text-align: center;
+}
+h3{
+    text-align: center;
+    font-size: 20px;
+
+}
+ul.special {
+    align-content:right ;
+    margin: 10px;
+    border: 3px solid red;
+    padding: 4px;
+    background-color: lightsalmon;
+    box-sizing: content-box;
+    width: 400px;
+    height: 500px;
+ }
+}
+img {
+    float: left;
+    
+}
+
+.img {
+
+    float:left;
+    width: 25%;
+}
+
+
+ul {
+    text-align: right;
+    text-align: center;
+    font-size: 40px;
+}

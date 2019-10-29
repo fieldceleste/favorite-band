@@ -1,0 +1,42 @@
+h1 {
+
+
+}
+
+.special {
+   margin: 10px;
+   border: 3px solid red;
+   padding: 4px;
+   background-color: lightsalmon;
+   box-sizing: content-box;
+   width: 400px;
+   height: 700px;
+
+
+}
+h2 {
+
+    font-size:30px;
+    
+}
+p {
+    text-align: center;
+
+}
+img {
+    float: left;
+    padding: 15%;
+    
+}
+
+
+ul {
+    text-align: right;
+    text-align: center;
+    font-size: 40px;
+}
+.img {
+
+    float:left;
+    padding:
+}
